@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Ananya Pradhan
 
-<!--
-**ananyap777/ananyap777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Aspiring Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- MCA student
+- Learning Web Development & Java
+- Beginner but improving every day
+
+---
+
+## 🛠️ Skills
+- HTML
+- CSS
+- JavaScript
+- Java (Basics)
+
+---
+
+## 📂 Projects
+- Portfolio Website
+- To-Do List App
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/YOUR-USERNAME
