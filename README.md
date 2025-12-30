@@ -1,12 +1,12 @@
-# Hi 👋, I'm Ananya Pradhan
+                                                 # Hi 👋, I'm Ananya Pradhan
 
-🎓 MCA Student | 💻 Aspiring Software Developer  
+🎓 MCA Student | 💻 Aspiring Web Developer  
 
 ---
 
 ## 👩‍💻 About Me
 - MCA student
-- Learning Web Development & Java
+- Learning Web Development
 - Beginner but improving every day
 
 ---
@@ -15,15 +15,15 @@
 - HTML
 - CSS
 - JavaScript
-- Java (Basics)
+- React
 
 ---
 
 ## 📂 Projects
 - Portfolio Website
-- To-Do List App
+- My_shine website
 
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/YOUR-USERNAME
+- GitHub: https://github.com/ananyap777
