@@ -1,4 +1,4 @@
-                                                 # Hi 👋, I'm Ananya Pradhan
+# Hi 👋, I'm Ananya Pradhan
 
 🎓 MCA Student | 💻 Aspiring Web Developer  
 
