@@ -8,7 +8,7 @@
 
 <p align="center">
   <img align="center" alt="Coding" width="420"
-    src="<img width="344" height="200" alt="image" src="https://camo.githubusercontent.com/ed557a6891d07bda0913b73834af61e4489fdfa20e6f68174b030b3d3230fd09/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62612f39372f31302f62613937313063613263363565663762633433313863396438353764396631662e676966" />
+    src="<img width="344" height="200" alt="image" src="https://i.pinimg.com/originals/ba/97/10/ba9710ca2c65ef7bc4318c9d857d9f1f.gif" />
 " />
 </p>
 <h3 align="center">🚀 Currently Learning & Exploring</h3>
