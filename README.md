@@ -8,8 +8,16 @@
 
 <p align="center">
   <img align="center" alt="Coding" width="420"
-    src="<img width="344" height="200" alt="image" src="https://github.com/user-attachments/assets/e398a291-6e53-44d8-8efd-50ee055a9ae8" />
+    src="<img width="344" height="200" alt="image" src="https://camo.githubusercontent.com/ed557a6891d07bda0913b73834af61e4489fdfa20e6f68174b030b3d3230fd09/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62612f39372f31302f62613937313063613263363565663762633433313863396438353764396631662e676966" />
 " />
+</p>
+<h3 align="center">🚀 Currently Learning & Exploring</h3>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack;Advanced+JavaScript+Concepts;Responsive+UI+%26+Modern+Frontend+Practices;Git+%26+GitHub+Collaboration+Workflows" 
+    alt="Typing SVG" 
+  />
 </p>
 
 ---
@@ -24,51 +32,57 @@
 
 ---
 
-## 🛠️ Languages & Tools
+<h3 align="center">🛠️ Languages & Tools</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
   </a>
 </p>
 
 
 ---
 
-## 🚀 What I’m Learning
-
-- MERN Stack
-- Advanced JavaScript concepts
-- Responsive UI & modern frontend practices
-- Git & GitHub collaboration workflows
-
----
-
 ## 📌 Projects
 
-- ✅ Personal Portfolio Website
-- 🔄 Test-Trail Food Ordering website  
-- ✅ To-Do List Web Application  
-- 🔄 Beauty e-commerce Project
+### 🔹 Personal Portfolio Website
+- Responsive personal portfolio built using **HTML, CSS, and JavaScript**
+- Showcases skills, projects, education, and contact details
+- Focused on clean UI and smooth user experience
 
+### 🔹 Taste-Trail – Food Ordering Website
+- Food ordering web application inspired by Zomato
+- Built using **HTML, CSS, JavaScript**
+- Features restaurant listings, menu display, and order UI
+- Currently enhancing with dynamic functionality
+
+### 🔹 To-Do List Web Application
+- Task management app with **Add / Delete / Mark as Done** features
+- Supports daily task tracking
+- Designed with a clean and simple user interface
+
+### 🔹 Beauty E-commerce Website (In Progress)
+- E-commerce frontend project for beauty & cosmetic products
+- Includes product listings, categories, and cart UI
+- Focused on **responsive design and modern layouts**
 > *More projects will be added soon — stay tuned!*
 
 ---
@@ -85,22 +99,25 @@
 
 ---
 
-## 🤝 Connect With Me
+<h3 align="center">🤝 Connect With Me</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/_a_n_a_n_y_a7789" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      height="30" width="40" />
+      height="35" width="45" />
   </a>
+
   <a href="https://github.com/ananyap777" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-      height="30" width="40" />
+      height="35" width="45" />
   </a>
-   <a href="https://www.linkedin.com/in/ananya-pradhan/" target="_blank">
+
+  <a href="https://www.linkedin.com/in/ananya-pradhan/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"
-      height="30" width="40" />
-    </a>  
+      height="35" width="45" />
+  </a>
 </p>
+
 
 ---
 
