@@ -84,7 +84,7 @@
 
  <a href="https://www.linkedin.com/in/iananyapradhan" target="_blank">
   <img src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg?semt=ais_hybrid&w=740&q=80"
-       height="35" width="45" />
+       height="40" width="41" />
 </a>
 </p>
 
