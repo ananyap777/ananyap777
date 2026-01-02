@@ -1,7 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9761a103-2a32-44fa-aec7-fbdb2922250e" />
-" alt="MasterHead" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da78658d-dfbe-4cb1-ac34-d840bfb63df3" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ananya Pradhan</h1>
