@@ -69,18 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananyap777&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyap777&theme=tokyonight" />
-</p>
-
----
-
 <h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
@@ -94,10 +82,10 @@
       height="35" width="45" />
   </a>
 
-  <a href="https://www.linkedin.com/in/ananya-pradhan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"
-      height="35" width="45" />
-  </a>
+ <a href="https://www.linkedin.com/in/ananya-pradhan/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"
+       height="35" width="45" />
+</a>
 </p>
 
 
