@@ -11,12 +11,7 @@
 </p>
 <h3 align="center">🚀 Currently Learning & Exploring</h3>
 
-<p align="center">
-  <img 
-    src="https://64.media.tumblr.com/79bb5c54237323c17c93af4c3c83671b/667b875d0810726a-86/s1280x1920/018a7062497c7599991eac83a4f41844484e90e7.gifv" 
-    alt="Typing SVG" 
-  />
-</p>
+
 
 ---
 
