@@ -15,7 +15,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack;Advanced+JavaScript+Concepts;Responsive+UI+%26+Modern+Frontend+Practices;Git+%26+GitHub+Collaboration+Workflows" 
+    src="https://64.media.tumblr.com/79bb5c54237323c17c93af4c3c83671b/667b875d0810726a-86/s1280x1920/018a7062497c7599991eac83a4f41844484e90e7.gifv" 
     alt="Typing SVG" 
   />
 </p>
