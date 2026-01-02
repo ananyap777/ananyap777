@@ -6,11 +6,13 @@
 <h1 align="center">Hi 👋, I'm Ananya Pradhan</h1>
 <h3 align="center">Frontend Developer | MCA Student | MERN Enthusiast</h3>
 
-<p align="center">
-  <img width="344" height="200" alt="image" src="https://i.pinimg.com/originals/ba/97/10/ba9710ca2c65ef7bc4318c9d857d9f1f.gif" />
-</p>
 <h3 align="center">🚀 Currently Learning & Exploring</h3>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack;Advanced+JavaScript+Concepts;Responsive+UI+%26+Modern+Frontend+Practices;Git+%26+GitHub+Collaboration+Workflows"
+  />
+</p>
 
 
 ---
