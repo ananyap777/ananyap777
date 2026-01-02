@@ -7,9 +7,7 @@
 <h3 align="center">Frontend Developer | MCA Student | MERN Enthusiast</h3>
 
 <p align="center">
-  <img align="center" alt="Coding" width="420"
-    src="<img width="344" height="200" alt="image" src="https://i.pinimg.com/originals/ba/97/10/ba9710ca2c65ef7bc4318c9d857d9f1f.gif" />
-" />
+  <img width="344" height="200" alt="image" src="https://i.pinimg.com/originals/ba/97/10/ba9710ca2c65ef7bc4318c9d857d9f1f.gif" />
 </p>
 <h3 align="center">🚀 Currently Learning & Exploring</h3>
 
