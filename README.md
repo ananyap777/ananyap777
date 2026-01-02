@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da78658d-dfbe-4cb1-ac34-d840bfb63df3" />
+  <img width="1920" height="1080" alt="image" src="https://images.cara.app/production/posts/16ce22fc-f1ae-4df4-8350-23faaad90c8b/pixeljeff-pC2pFy3gP78hiBG_vZcwT-9A8A4CD5-EAE0-4CD5-8BBB-6382875856AA.jpg?width=1920" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ananya Pradhan</h1>
