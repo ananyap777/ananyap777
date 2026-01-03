@@ -51,16 +51,24 @@
   </a>
 </p>
 
-
 ---
+## 📌 Projects
 
-##  Projects
+### 💼 Personal Portfolio Website
+- Built a responsive personal portfolio using HTML, CSS, and JavaScript.
+- Showcases skills, projects, and contact details.
 
--  **Personal Portfolio Website** – A responsive portfolio showcasing skills, projects, and contact details using HTML, CSS, and JavaScript.
--  **Taste-Trail Food Ordering Website** – A frontend food ordering web app inspired by Zomato with modern UI design.
--  **To-Do List Web Application** – A simple task management app with add, delete, and mark-as-done functionality.
--  **Beauty E-commerce Website** – A responsive beauty and cosmetics shopping UI with product listings and cart layout.
-> *More projects will be added soon — stay tuned!*
+### 🍔 Taste-Trail Food Ordering Website
+- Frontend food ordering website inspired by Zomato.
+- Designed with a modern and responsive UI.
+
+### ✅ To-Do List Web Application
+- Task management web app with add, delete, and mark-as-done features.
+- Helps organize daily tasks efficiently.
+
+### 💄 Beauty E-commerce Website
+- Beauty and cosmetics shopping website UI.
+- Includes product listings and cart layout.
 
 ---
 
