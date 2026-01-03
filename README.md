@@ -20,7 +20,7 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 - 🎓 MCA student with a strong foundation in **web development**
 - 💻 Passionate about building **responsive & user-friendly web applications**
@@ -59,7 +59,7 @@
 
 ---
 
-## 📌 Projects
+##  Projects
 
 -  **Personal Portfolio Website** – A responsive portfolio showcasing skills, projects, and contact details using HTML, CSS, and JavaScript.
 -  **Taste-Trail Food Ordering Website** – A frontend food ordering web app inspired by Zomato with modern UI design.
