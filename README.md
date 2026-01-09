@@ -94,4 +94,4 @@
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+⭐ **If you like my work,then consider starring my repositories!**
