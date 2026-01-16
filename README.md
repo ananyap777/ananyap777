@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ananya Pradhan</h1>
+<h1 align="center">Hi 👋, I'm Ananya Pradhan...</h1>
 <h3 align="center">Frontend Developer | MCA Student | MERN Enthusiast</h3>
 <p align="center">
   <img width="1920" height="660" alt="image" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" />
