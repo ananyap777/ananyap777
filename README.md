@@ -52,7 +52,7 @@
 </p>
 
 ---
-## 📌 Projects.
+## 📌 Projects
 
 ### 💼 Personal Portfolio Website
 - Built a responsive personal portfolio using HTML, CSS, and JavaScript.
